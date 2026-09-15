@@ -1,0 +1,97 @@
+[en-us]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "支持 Lua、Markdown 和模板的纯 Go 网页服务器。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "支援 Lua、Markdown 和模板的純 Go 網頁伺服器。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[fr-fr]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Algernon"
+auth = "TOS Review Test Corpus"
+descript = "A pure Go web server with built-in support for Lua, Markdown and templates."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."

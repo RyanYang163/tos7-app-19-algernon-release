@@ -1,0 +1,9 @@
+Package: tos7-app-19-algernon
+Version: 2.0.0
+Architecture: amd64
+Section: utils
+Priority: optional
+Maintainer: TOS Review Test Corpus <review-test@example.invalid>
+Depends: libc6 (>= 2.34), systemd
+Description: Algernon
+ A pure Go web server with built-in support for Lua, Markdown and templates.

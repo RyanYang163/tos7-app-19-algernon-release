@@ -1,0 +1,13 @@
+#!/bin/bash
+set -e
+APPID="tos7-app-19-algernon"
+
+systemctl daemon-reload
+
+if [ "$1" = "purge" ]; then
+    rm -rf "/var/lib/${APPID}" "/var/log/${APPID}" "/usr/local/${APPID}"
+    rm -f "/etc/systemd/system/${APPID}.service"
+    systemctl daemon-reload 2>/dev/null || true
+fi
+
+exit 0
